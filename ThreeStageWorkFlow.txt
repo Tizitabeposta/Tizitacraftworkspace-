@@ -1,0 +1,4 @@
+Git workflow
+----------
+1, Modify/ Creare a new file
+2, creare a new file 
